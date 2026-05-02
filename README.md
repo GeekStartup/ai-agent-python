@@ -18,3 +18,13 @@ A simple learning project to understand how AI agents work.
 ## Setup
 ```bash
 pip install openai python-dotenv
+
+## Environment Setup
+
+Create a `.env` file:
+
+OPENAI_API_KEY=your_api_key_here
+
+Make sure:
+- `.env` is in project root
+- You restart terminal after creating it
