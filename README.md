@@ -18,6 +18,7 @@ A simple learning project to understand how AI agents work.
 ## Setup
 ```bash
 pip install openai python-dotenv
+```
 
 ## Environment Setup
 
